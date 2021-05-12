@@ -2,8 +2,6 @@
 
 #### I'm an Experienced Full Stack Developer !
 
-  - 🔭 I’m currently working on Machine learning and React Native app development.
-  - 🌱 I’m currently learning AWS.
   - 👯 I’m looking to collaborate with Full stack developers.
   - ⚡ Fun fact: I like to travel and love to cook :-)
 
