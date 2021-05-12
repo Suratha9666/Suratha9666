@@ -1,6 +1,6 @@
 ### Hi there, I'm Suratha Pyari 👋
 
-#### I'm an MSCS Grad, Teaching Assistant, Experienced Developer !
+#### I'm an Experienced Full Stack Developer !
 
   - 🔭 I’m currently working on Machine learning and React Native app development.
   - 🌱 I’m currently learning AWS.
