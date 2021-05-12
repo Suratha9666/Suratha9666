@@ -9,7 +9,7 @@
 
 ### 📫 How to reach me:
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/suratha-pyari-bhupathi-raju-495131194/) 👨🏻‍💻 <br>
-  ⦿ Shoot Me an [Email](mailto:surathapyari.bhupathiraju@mavs.uta.edu) 💌 <br>
+  ⦿ Shoot Me an [Email](mailto:suratharaju@gmail.com) 💌 <br>
 
 ### Languages and Tools:
 
